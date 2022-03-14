@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+
+.buttons{
+  position: absolute;
+  right: 27%;
+  top: 12%;
+  font-size: 30px;
+}

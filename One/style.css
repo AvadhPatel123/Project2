@@ -1,0 +1,22 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+.title{
+  position: absolute;
+  right: 10%;
+  font-size: 100px;
+
+}
+
+.start{
+  position: absolute;
+  right: 42%;
+  top: 70%;
+  font-size: 100px;
+  color: white;
+}
